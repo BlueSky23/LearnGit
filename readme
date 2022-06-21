@@ -3,10 +3,3 @@ Git is a free software under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Add branch dev.
-dddd
-<<<<<<< HEAD
-Branch is simple and quick.
-=======
-Branch is simple & quick.
-
->>>>>>> dev
